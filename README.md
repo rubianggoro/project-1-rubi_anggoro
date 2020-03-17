@@ -12,8 +12,11 @@ Jika mempunyai pertanyaan dapat kalian temukan ditab `Contact`
 
 </br>
 
-Contoh Gambar dari link:
+[Figma](https://www.figma.com/file/52Lo8p52M0zOrF0wShhvDU/test-figma?node-id=0%3A1)
+
 <br>
+Contoh Gambar dari link:
+
 ![Gambar](https://miro.medium.com/max/600/0*7asj1rKS8d2mead_.png)
 
 </br>
