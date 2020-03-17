@@ -13,6 +13,7 @@ Jika mempunyai pertanyaan dapat kalian temukan ditab `Contact`
 </br>
 
 Contoh Gambar dari link:
+<br>
 ![Gambar](https://miro.medium.com/max/600/0*7asj1rKS8d2mead_.png)
 
 </br>
